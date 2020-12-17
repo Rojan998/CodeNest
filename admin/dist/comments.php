@@ -1,7 +1,7 @@
 <!-- Includes the header for admin panel-->
-<?php require 'e:/xampp/htdocs/blogpost/admin/dist/includes/header.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/admin/dist/includes/header.php'; ?>
 <!-- Navigation bar -->
-<?php require 'e:/xampp/htdocs/blogpost/admin/dist/includes/navigation.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/admin/dist/includes/navigation.php'; ?>
 <div id="layoutSidenav_content">
 	<main>
 		<div class="container-fluid">
@@ -70,7 +70,7 @@
 			</div> <!--continer-fluid -->
 		</main>
 		<!-- For footer-->
-		<?php require 'e:/xampp/htdocs/blogpost/admin/dist/includes/footer.php'; ?>
+		<?php require 'e:/xampp/htdocs/blogpost/Codenest/admin/dist/includes/footer.php'; ?>
 	</div>
 </div>
 <script src=" https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous">

@@ -1,5 +1,5 @@
-<?php require 'e:/xampp/htdocs/blogpost/admin/dist/loginregister/loginregister_header.php'; ?>
-<?php require 'e:/xampp/htdocs/blogpost/include/db.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/admin/dist/loginregister/loginregister_header.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/include/db.php'; ?>
 <?php session_start(); ?>
 <?php
 if (isset($_POST['login'])) {
@@ -76,7 +76,7 @@ if (isset($_POST['login'])) {
                 </div>
             </main>
         </div>
-        <?php require 'e:/xampp/htdocs/blogpost/admin/dist/loginregister/loginregister_footer.php'; ?>
+        <?php require 'e:/xampp/htdocs/blogpost/Codenest/admin/dist/loginregister/loginregister_footer.php'; ?>
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>

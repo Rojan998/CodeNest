@@ -1,7 +1,7 @@
 <?php ob_start(); ?>
 <?php session_start(); ?>
-<?php require 'e:/xampp/htdocs/blogpost/include/db.php'; ?>
-<?php require 'e:/xampp/htdocs/blogpost/admin/dist/functions.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/include/db.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/admin/dist/functions.php'; ?>
 
 
 

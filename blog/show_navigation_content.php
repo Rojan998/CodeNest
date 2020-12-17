@@ -1,14 +1,14 @@
 <!--Connecting database to the index file-->
-<?php require 'e:/xampp/htdocs/blogpost/include/db.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/include/db.php'; ?>
 
 
 <!--Header-->
-<?php require 'e:/xampp/htdocs/blogpost/include/header.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/include/header.php'; ?>
 
 
 
 <!--Navigation-->
-<?php require 'e:/xampp/htdocs/blogpost/include/navigation.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/include/navigation.php'; ?>
 
 
 
@@ -74,7 +74,7 @@
 	</div>
 
 	<!-- Sidebar Widgets Column -->
-	<?php require 'e:/xampp/htdocs/blogpost/include/sidebar.php'; ?>
+	<?php require 'e:/xampp/htdocs/blogpost/Codenest/include/sidebar.php'; ?>
 
   </div>
   <!-- /.row -->
@@ -83,4 +83,4 @@
 <!-- /.container -->
 
 <!--Footer-->
-<?php require 'e:/xampp/htdocs/blogpost/include/footer.php'; ?>
+<?php require 'e:/xampp/htdocs/blogpost/Codenest/include/footer.php'; ?>
